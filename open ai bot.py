@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "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"
+openai.api_key = ""
 
 while True:
     mobile_engine = "text-davinci-003"
